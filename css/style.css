@@ -11,6 +11,19 @@ html {
   scroll-behavior: smooth;
 }
 
+.ico {
+  background: url(../img/lock.svg);
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  padding-right: 40px;
+}
+a span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 body {
   font-size: 1rem;
   overflow-x: hidden;
